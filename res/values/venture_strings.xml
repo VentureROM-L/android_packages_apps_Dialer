@@ -47,4 +47,7 @@
     <string name="dialog_speed_dial_airplane_mode_message">To use speed dial, first turn off Airplane mode.</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
+
+    <string name="detailed_incall_info_title">Detailed caller information</string>
+    <string name="detailed_incall_info_summary">Display additional information about the caller in the incoming call screen</string>
 </resources>
